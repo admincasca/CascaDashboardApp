@@ -1,0 +1,302 @@
+﻿82,arenterprise,A.r Enterprise/Sidhi Medical
+38,aappharma,Aap Pharma
+519,aarkayagencies,Aar Kay Agencies
+117,abboddeindia,Abbodde India Life Sciences Pvt. Ltd
+481,abhinavmedicalagency,Abhinav Medical Agency
+122,abishmedicalagency,Abish Medical Agency
+74,adhikarimedicure,Adhikari Medicure
+51,akshayadistributor,Akshaya Distributor
+414,amkeypharmaceutical,Amkey Pharmaceutical
+447,anamikaeneterprises,Anamika Eneterprises
+59,anandenterprises,Anand Enterprises
+64,anandmedico,Anand Medico
+524,ancestorspharma,Ancestors pharma
+93,andhradistributor,Andhra Distributor
+494,ankitmedicalstore,Ankit Medical Store
+92,ansarimedical,Ansari Medical
+130,anushkamedico,Anushka Medico
+422,apticpharma,Aptic Pharma
+178,archanaenterprises,Archana Enterprises
+101,arhamdrugagency,Arham Drug Agency
+27,arpitpharma,Arpit Pharma
+463,asmedicose,AS Medicose
+148,ashpharma,Ash Pharma
+146,auromentispharmaceuticals,Auromentis Pharmaceuticals
+28,avirajpharma,Aviraj Pharma
+499,bapiagency,Bapi Agency
+97,bestoliva,Bestoliva Lifesciences
+139,bhagwanbabamedico,Bhagwan Baba Medico
+468,bharipharmaceuticals,Bhari Pharmaceuticals
+22,bhavienterprises,Bhavi Enterprises
+94,biaomhealthcare,BIAOM HEALTHCARE PVT. LTD.
+506,bisnumedico,Bisnu Medico
+455,biswasdrugagency,BISWAS DRUG AGENCY
+3,Brikha,Brammha Medical Agencies
+2,rajeev,casca
+12,sumit,Casca
+13,gaurav,Casca
+14,neetu,Casca
+15,jaswinder,Casca
+16,ravlesh,Casca
+17,preet,Casca
+18,chavvi,Casca
+19,pooja,Casca
+440,chandelmedicalagency,Chandel Medical Agency
+427,chandrikamedical,Chandrika Medical and General
+416,chowdhuryenterprises,Chowdhury Enterprises
+61,communitypharma,Community Pharma
+70,cornerpharmacy,Corner Pharmacy
+591,dnmedicalstorenaveen,D.N Medical Store
+476,dnmedicalstore,D.N Medical Store
+408,daneshwarienterprises,Daneshwari Enterprises
+498,dayamedpharma,Daya Med Pharma
+450,deepchemist,Deep Chemist & Drugist
+500,deepamedicalagency,Deepa Medical Agency
+75,deltahealthcare,Delta Healthcare / Saar Pharma
+60,divinehealthcare,Divine Healthcare
+115,draktiwari,Dr. A.K Tiwari
+9,aachal,Dr. Aachal
+448,drchandankumar,Dr. Chandan Kumar
+7,javed,Dr. Javed
+8,khalid,Dr. Khalid
+29,pssinghal,Dr. P.S Singhal
+587,droptipharma,Dropti Pharma
+434,dsenterprises,Ds Enterprises
+577,ducampharma,Ducam Pharma
+53,duinirpharmaceutical,Duinir Pharmaceutical
+46,durgamedico,Durga Medico
+597,durgaprasadguptaandbrothers,Durga Prasad Gupta And Brothers
+578,falconpharmaceuticals,Falcon Pharmaceuticals
+504,fatimhamedicalagency,Fatimha Medical Agency
+507,finemedical,Fine Medical & Surgical Agencies
+431,friendsenterprises,Friends Enterprises
+40,gpenterprisesabhay,G.P Enterprises
+41,gpenterprisesrahul,G.P Enterprises
+32,gspharma,G.S Pharma / S For Pharma
+1,ishaan,GA Pharma
+4,gayyur,GA PHARMA
+5,gulsher,GA PHARMA
+112,gangotripharma,Gangotri Pharma
+464,ghanshyammedicalstore,Ghanshyam Medical Store
+151,gururamdasmedicalagency,Guru Ram Das Medical Agency
+23,gyanbrother,Gyan & Brother Med Agency
+85,hariomenterprises,Hari Om Enterprises
+63,hariommedical,Hari Om Medical
+482,healthcarepharma,Health Care Pharma
+442,hemantdistributor,Hemant Distributor
+406,hindustanmedico,Hindustan Medico
+56,indiadrug,India Drug
+457,indiadrugmr1,India Drug MR1
+458,indiadrugmr2,India Drug MR2
+459,indiadrugmr3,India Drug MR3
+460,indiadrugmr4,India Drug MR4
+461,indiadrugmr5,India Drug MR5
+462,indiadrugmr6,India Drug MR6
+584,indianspinal,Indian Spinal Injuries Centre
+446,jmvpharma,J M V Pharma/ J M V Traders
+492,jagannathfarma,Jagannath Pharma
+147,jagdeeshmedicalagencies,Jagdeesh Medical Agencies
+57,jaimatadipharma,Jai Mata Di Pharma
+125,jainipharma,Jaini Pharma
+601,jaiswalmedicalstore,Jaiswal Medical Store
+78,jansevamedical,Janseva Medical
+116,jaykaranradhamedical,Jaykaran Radha Medical
+444,jeetmedical,Jeet Medical
+136,johnpharma,John Pharma
+134,joydrugsdistributor,Joy Drugs Distributor
+133,jyotsnamedicalagency,Jyotsna Medical Agency
+69,kkpharma,K.K Pharma
+465,kaiserlifesciences,Kaiser Lifesciences
+118,kamadgiripharma,Kamadgiri Pharma
+437,kasturipharma,Kasturi Pharma
+43,katrasmedical,Katras Medical
+496,kavyapharmaceutical,Kavya Pharmaceutical
+80,keerthanalabs,Keerthana Labs
+501,kisanmedicalagency,Kisan Medical Agency
+477,kundanpharma,Kundan Pharma
+484,kyaralifescience,Kyara Life Science Pvt Ltd
+466,lakshmimedicalguntur,Lakshmi Medical Agencies
+102,laxmimedicalgernal,Laxmi Medical Gernal & Fancy Store
+497,lifecareagency,Life Care Agency
+72,lifelinemedicalagency,Life Line Medical Agency
+95,lifelinepharma,Life Line Pharma
+472,lifemedmedical,Life Med Medical
+58,linkanpharma,Linkan Pharma
+602,lordvenkateshwarapharmaceuticals,Lord Venkateshwara Pharmaceuticals
+522,mamedicose,M.A Medicose
+45,mrmedical,M.R Medical
+593,advikpharmaceuticals,M/S Advik Pharmaceuticals
+516,ambitionhealthcare,M/s Ambition Healthcare
+441,anjanienterprises,M/s Anjani Enterprises
+594,basaveshwaramedical,M/S Basaveshwara Medical
+517,indiansurgical,M/s Indian Surgical And Medical
+595,ksrpharmaceuticals,M/s K.S.R Pharmaceuticals
+518,metakanienterprises,M/s Metakani Enterprises
+510,suneethapharma,M/s Suneetha Pharma
+592,surajpharma,M/S Suraj Pharma
+588,maakalienterprises,Maa Kali Enterprises
+55,madhumedisale,Madhu Medisale
+124,mahadevpharma,Mahadev Pharma
+137,mahakalidrugagency,Mahakali Drug Agency
+505,mahaprabhudistributor,Mahaprabhu Distributor
+433,maharashtramedical,Maharashtra Medical & Gernal Store
+84,maitripharma,Maitri Pharma
+113,manishmedicose,Manish Medicose
+425,marchpharmacy,March Pharmacy
+503,medcitypharma,Medcity Pharma
+579,mediimpex,Medi Impex
+483,medicinehouse,Medicine House
+420,medicinehub,Medicine Hub
+126,medilivapharmaceuticals,Mediliva Pharmaceuticals
+487,medipoint,Medipoint
+68,medisale,Medisale
+131,medisuspharma,Medisus Pharma
+525,guest251,Mediunique Pharmaceutical PVT LTD
+443,medlifepharma,MedLife Pharma
+138,medonixhealthcare,Medonix Healthcare
+71,meeradistributor,Meera Distributor
+474,meghapharma,Megha Pharma
+76,meghnaenterprises,Meghna Enterprises, Sai Medical Agency
+576,mehfoozpharma,Mehfooz Pharma
+100,mimpharma,Mim Pharma
+478,miruanandmedical,Miru Anand Medical
+177,mishrabrothers,Mishra Brothers MEDICAL STOTE
+120,mmdrug,Mm Drug
+486,mollymedical,Molly Medical
+110,mondalenterprises,Mondal Enterprises
+495,mspharma,Ms Pharma
+513,nddrugs,N.D Drugs
+411,nkdrugs,N.K Drugs
+596,nagnarayanmedicalhall,Nag Narayan Medical Hall
+81,naiveenterprises,Naive Enterprises
+103,nandapharma,Nanda Pharma
+586,newdastagirimedicate,New Dastagiri Medicate
+491,newgauravpharma,New Gaurav Pharma
+121,newindianmedicalagency,New Indian Medical Agency
+490,newkisanmedical,New Kisan Medical
+35,newmhpharmaceuticals,New M.h Pharmaceuticals
+90,newmayank,New Mayank
+456,newnulifepharma,New Nu Life Pharma
+454,newuniversalmedicate,New Universal Medicate
+141,nibeditatraders,Nibedita Traders
+590,nisagrapharma,Nisagra Pharma
+132,nishapharma,Nisha Pharma
+467,nishattraders,Nishat Traders
+409,nityaagency,Nitya Agency
+410,nivedhdistributor,Nivedh Distributor
+83,noorjhanhealthcare,Noorjhan Healthcare
+20,ommedicalmunger,OM Medical
+502,ommedicals,Om Medicals
+418,omenmedicare,Omen Medicare
+449,optuscare,Optus Care
+24,oshmedical,Osh Medical Agency
+419,panditganesh,Pandit Ganesh Narayan
+471,paripharma,Pari Pharma
+473,paridapharmaceuticals,Parida Pharmaceuticals
+582,patilpharma,Patil Pharma
+96,pazahanimurgan,Pazahani Murgan
+512,planethealthpharma,Planet Health Pharma
+521,poojamedical,Pooja Medical & General Store
+415,pragyamedical,Pragya Medical and General
+108,prakashmedicalhall,Prakash Medical Hall
+105,praveenmedical,Praveen Medical
+98,publicmedicalgernalstore,Public Medical & Gernal Store
+128,pujapharma,Puja Pharma
+179,rkmedicoseajay,R K Medicose
+453,reneterprices,R. Eneterprices
+26,rdpharma,R.D Pharma / Shivi Pharma
+21,rkmedicosedehradun,R.K. Medicose
+91,rmmedicose,R.M Medicose
+30,rvdistributor,R.v Distributor
+33,radhemedical,Radhe Medical
+475,raghuveerpharma,Raghuveer Pharma
+99,rahmanenterprises,Rahman Enterprises
+36,rahuldrughouse,Rahul Drug House
+48,rahulmedicalagency,Rahul Medical Agency
+65,rajeshpharmaceutical,Rajesh Pharmaceutical
+39,rantaspharmaceutical,Rantas Pharmaceutical
+77,ratikaenterprises,Ratika Enterprises
+589,ravipharma,Ravi Pharma
+150,reliancepharmaceuticals,Reliance Pharmaceuticals
+508,remdiapharmacy,Remdia Pharmacy
+426,renukapharma,Renuka Pharma
+421,rudhrakshpharma,Rudraksha Pharma
+432,skpharma,S.K Pharma
+142,sksagency,S.K.S Agency
+37,srmedical,S.R Medical
+485,ssenterprise,S.S Enterprise
+523,sabalremedies,Sabal Remedies
+511,sachpreetsingh,Sachpreet Singh
+469,sadafpharmaceuticals,Sadaf Pharmaceuticals
+6,sahadev,Sahadev
+585,salwanajay,Salwan Distributors
+111,sanchyapharmaceutical,Sanchaya Pharmaceutical
+438,sandeepmedical,Sandeep Medical
+451,sapphireassociates,Sapphire Associates
+87,sarojassociate,Saroj Associate
+114,satguruenterprises,Satguru Enterprises
+520,satishmedical,Satish Medical & General Stores
+54,sawarnbadhra,Sawarn Badhra
+509,shaktimedicalagency,Shakti Medical Agency
+603,sharmamedicines,Sharma Medicines
+62,shinghaimedical,Shinghai Medical corporation
+480,shivshantimedical,Shivshanti Medical
+143,shreeenterprises,Shree Enterprises
+436,shreekrishnaenterprises,Shree Krishna Enterprises
+104,shreelakshmibalajiagency,Shree Lakshmi Balaji Agency
+88,shreemedical,Shree Medical
+598,shreeradheenterprises,Shree Radhe Enterprises
+145,shreerampharmaceuticals,Shree Ram Pharmaceuticals
+149,shribasaveshwarmedical,Shri Basaveshwar Medical & Gernal Stores
+580,shrimedicalagencies,Shri Medical Agencies
+407,shripharma,Shri Pharma
+423,shrivyankatesh,Shri Vyankatesh Pharma
+429,shrinemedicose,Shrine Medicose
+445,shrushtimarketing,Shrushti Marketing
+89,sindhupharma,Sindhu Pharma
+127,singhmedicalstore,Singh Medical Store
+428,sirishmedical,Sirish Medical Agencies
+439,skandshreepharma,Skandsree Pharma
+488,sonudrughouse,Sonu Drug House
+470,srpharmadelhi,SR Pharma
+86,sriganpatienterpries,Sri Ganpati Enterpries
+66,srilakshmichenkeshwa,Sri Lakshmi Chenkeshwa
+119,srilakshmivenkateshwara,Sri Lakshmi Venkateshwara
+430,srilakshmivenkateshwarapharma,Sri Lakshmi Venkateshwara Pharmaceuticals
+514,srisaichakramedical,Sri Sai Chakra Medical
+515,srisankatmochanpharma,Sri Sankat Mochan Pharma
+135,srishirdisaimedicalagencies,Sri Shirdi Sai Medical Agencies
+599,srisravyamedical,Sri Sravya Medical And Surgicals
+25,srithakur,Sri Thakur
+581,sumanmedicine,Suman Medicine
+109,sumukpharma,Sumuk Pharma
+52,suncitymedical,Suncity Medical
+42,suneymedicalstore,Suney Medical Store
+106,sunilagencies,Sunil Agencies
+73,surbhiayush,Surbhi Ayush
+49,survimedical,Survi Medical
+600,tanvipharma,Tanvi Pharma
+140,tayalmedical,Tayal Medical
+11,marketing,text
+493,thelanpharma,The Lan Pharma
+123,thepharmatrade,The Pharma Trade
+107,tirumaladistributor,Tirumala Distributor
+44,tmsmedical,Tms Medical
+50,todidistributor,Todi Distributor
+129,trinitypharmacy,Trinity Pharmacy
+604,trumpbiotech,Trump Biotech
+67,uniqueenterprises,Unique Enterprises
+413,utkarshmedical,Utkarsh Medical & Gen Store
+412,vsavepharmaceuticals,V Save Pharmaceuticals
+34,vapharma,V. A Pharma
+144,vrbrothers,V.R Brothers
+79,vrpmedical,V.R.P Medical
+405,vandalenpharma,Vandalen Pharma
+47,varshahealthcare,Varsha Healthcare
+417,venkatasai,Venkata Sai
+452,vidyamedicalhall,Vidya Medical Hall
+435,vishaldrug,Vishal Drug
+31,wedangenterprises,Wedang Enterprises
+479,yamyammedicine,Yam Yam Medicine
+424,yashdistributor,Yash Distributor
+489,zannatdrugdistributor,Zannat Drug Distributor

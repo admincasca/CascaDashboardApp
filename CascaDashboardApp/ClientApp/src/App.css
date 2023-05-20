@@ -1,0 +1,215 @@
+﻿.App {
+    text-align: center;
+    width: 80%;
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    min-height: 100vh;
+}
+
+.header {
+    height: 20vh;
+    width: 100vw;
+    background: #313366;
+    position: fixed;
+}
+
+.header_img {
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10vw;
+    height: 10vh;
+}
+
+.header_h1 {
+    position: absolute;
+    bottom: 0;
+    z-index: 2;
+    right: 0;
+    color:white;
+}
+
+
+.Auth {
+    text-align: center;
+    min-height: 100vh;
+    align-items: center;
+    min-width: 100vw;
+}
+
+.box {
+    border: solid black;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+.border_class {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.button {
+    border: none;
+    color: white;
+    width: 150px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #047BD5;
+    align-items: center;
+}
+
+.dialog {
+    box-shadow: 0 8px 6px -6px black;
+    position: fixed;
+    left: 20px;
+    top: 10px;
+}
+
+.button1 {
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: #047BD5;
+    align-items: center;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.auth-child {
+    flex: 1;
+}
+
+.auth-child:first-child {
+    flex: 1;
+    margin-right: 10px;
+    text-align: right
+}
+
+.auth-child:nth-child(2) {
+    /*margin-top: 15px;*/
+    vertical-align: middle;
+    margin-right: 100px;
+    text-align: left;
+    align-items: center;
+}
+
+
+.flex-child {
+    flex: 3;
+}
+
+.flex-child:first-child {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.flex-child:nth-child(2) {
+    /*margin-top: 15px;*/
+    vertical-align: middle;
+    margin-right: 100px;
+    text-align: left;
+    align-items: center;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    /* color: white; */
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.sidenav {
+    height: 100vh;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    color: white;
+    background-color: #047BD5;
+    transition: .5s ease;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.split_top {
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow-x: hidden;
+    background: #313366;
+}
+
+.split_bottom {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    overflow-x: hidden;
+}
+
+.top {
+    top: 0;
+}
+
+.bottom {
+    bottom: 0;
+}
+
+.centered {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+}
